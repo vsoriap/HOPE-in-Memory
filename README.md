@@ -1,4 +1,4 @@
-#HOPE-in-Memory
+# HOPE-in-Memory
 This repo contains a Hirschberg algorithm implementation in OpenMP that is Efficient in Memory
 
 To compile the different source codes use the make files with the two possible variants hirchberg and hirchberg_omp
